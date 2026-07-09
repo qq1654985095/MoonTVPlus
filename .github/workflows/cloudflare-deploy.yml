@@ -1,6 +1,6 @@
 name: Deploy to Cloudflare
 
-on: 
+on:
   workflow_dispatch:
 
 concurrency:
